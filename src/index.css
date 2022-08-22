@@ -1,4 +1,8 @@
 .custom-cover{
   max-height: 40vw;
+}
 
+.image-cover{
+  max-width: 100%;
+  
 }
